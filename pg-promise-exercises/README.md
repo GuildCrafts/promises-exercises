@@ -6,14 +6,20 @@ Exercises which tickles your JavaScript Promises knowledge.
 #### 1. Create and load the database
 Run the following commands in a terminal window
 ```bash
-createdb pg-promise-exercises
-psql -d pg-promise-exercises -f schema.sql
+$ createdb pg-promise-exercises
+$ psql -d pg-promise-exercises -f schema.sql
 ```
 
 #### 2. Fix `user` in the `postgresConfig` in  `exercises.js` to your username so that you can connect to your the postgres database
 Your username can be found by running this in a terminal window
 ```bash
-whoami
+$ whoami
+```
+
+#### 3. Install all dependencies
+```bash
+$ cd /path/to/pg-promise-exercises
+$ npm install
 ```
 
 ## Exercises

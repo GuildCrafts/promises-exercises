@@ -1,0 +1,11 @@
+{
+  "name": "pg-promise-exercises",
+  "version": "0.0.0",
+  "description": "Exercises which tickles your JavaScript Promises knowledge.",
+  "main": "exercises.js",
+  "dependencies": {
+    "pg-promise": "^5.6.4"
+  },
+  "author": "Punit Rathore",
+  "license": "MIT"
+}
