@@ -169,7 +169,7 @@ let authorIdWithTwoBooks; // IMPLEMENT THIS FUNCTION
    -----------------------------------------
 
    Implement the function `bookTitlesWithMultipleEditions` which returns the
-   `title` of books which have more than 2 editions. (HINT: you have to use a join)
+   `title` of books which have more than one entry in the editions table (do not use the "edition" field). (HINT: you have to use a join)
 
    @function: `bookTitlesWithMultipleEditions`
    @input params: None
