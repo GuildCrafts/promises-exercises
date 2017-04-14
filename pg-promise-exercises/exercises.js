@@ -1,3 +1,6 @@
+// Can we please convert this to mocha so its easy to see how many exercises pass. 
+// I'd also like to see the solution code living in a different file. its hard to tell when a learner changes code they shouldn't
+
 const pg = require('pg-promise')()
 const assert = require('assert')
 
