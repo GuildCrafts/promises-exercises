@@ -46,7 +46,7 @@ allBooks.then(books => {
            Exercise 2
    -----------------------------------------
 
-   Implement the function `firstTenBooks` which returns just the names of the
+   Implement the function `firstTenBooks` which returns the first ten
    books, and make the assertion pass.
    @function: `firstTenBooks`
    @input params: None
